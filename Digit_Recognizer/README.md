@@ -1,3 +1,5 @@
+TOP 30% on the LeaderBoard.
+
 The links for the dataset are given below:
 
 Sample Submission - https://www.kaggle.com/c/digit-recognizer/download/sample_submission.csv

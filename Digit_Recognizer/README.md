@@ -1,4 +1,4 @@
-TOP 30% on the LeaderBoard.
+TOP 30% on the LeaderBoard, 0.9920 accuracy
 
 The links for the dataset are given below:
 
